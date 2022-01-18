@@ -1,0 +1,18 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1 {
+color: red;
+font-weight: 900;
+}
+p{
+    color: greenyellow;
+    background: black;
+    font-style:italic;
+}
+ul {
+color:blueviolet
+}
+ol {
+    background: burlywood;
+}
