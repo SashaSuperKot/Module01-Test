@@ -40,7 +40,10 @@ ul {
 }
 ul > li {
     margin-right: 30px;
-    }
+}
+ul > li:last-child{
+    margin-right: 0;
+}
 .box {
     display: flex;
     margin-bottom: 30px;
@@ -61,4 +64,10 @@ section {
     padding: 5px 20px;
     margin-bottom: 20px;
     background-color: lavender;
+}
+.link {
+color: white;
+background-color: rebeccapurple;
+padding: 8px 15px;
+margin: 10px;
 }
